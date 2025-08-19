@@ -1,4 +1,6 @@
 
+# 🧠 Assembly Project – Prime & Caesar Menu
+
 This project is an x86 Assembly program written for the 16-bit real mode using DOS interrupts (INT 21h).  
 It presents a simple menu to the user with three options:
 
@@ -32,3 +34,4 @@ yoni.exe
 - Integer parsing from string input (up to 3 digits).
 - Prime-checking logic with visual ASCII output.
 - Basic Caesar cipher implementation with validation.
+
